@@ -13,9 +13,11 @@
 <html <?php language_attributes(); ?>>
 <head>
 <meta charset="<?php bloginfo( 'charset' ); ?>">
+<meta name="google-site-verification" content="UPAKnGa7CbG8kNu-XN6_4FacqrS25-bJ90LLaZFOTtE" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="profile" href="https://gmpg.org/xfn/11">
-
+<meta name="description" content="Online gun deals. One of the largest online gun stores with the selection of handguns, rifles, shotguns, ammo, optics &amp; firearm accessories" />
+<meta name="keywords" content="guns, gun, online gun store, handguns, dealers, rifles, ammo, gun dealers, gun dealers online, gun stores online" />
 <?php wp_head(); ?>
 </head>
 

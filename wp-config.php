@@ -1,4 +1,5 @@
 <?php
+define( 'WP_CACHE', true );
 /**
  * The base configuration for WordPress
  *
@@ -20,13 +21,13 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'ammo' );
+define( 'DB_NAME', 'u574411944_owlsteel' );
 
 /** MySQL database username */
-define( 'DB_USER', 'root' );
+define( 'DB_USER', 'u574411944_ammo' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', '' );
+define( 'DB_PASSWORD', 'Talktome@123' );
 
 /** MySQL hostname */
 define( 'DB_HOST', 'localhost' );
